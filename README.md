@@ -25,10 +25,11 @@ The project uses the following datasets:
 - Revenue remains relatively stable throughout the year with slight growth.
 - Most listings are concentrated in 1-bedroom properties.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Files Included
 - Airbnb_Tableau_project.twbx
 - listings.xlsx
 - calendar.xlsx
-
-## Author
-**Pushyami B**
